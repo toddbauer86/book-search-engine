@@ -25,5 +25,5 @@ Users can sign in and out, save books to their account, and search through books
 
 ## Deployed:
 
-<p><a href="https://thawing-mountain-28144.herokuapp.com/">heroku/a></p>
-<p><a href="https://github.com/toddbauer86/book-search-engine">github/a></p>
+<p><a href="https://thawing-mountain-28144.herokuapp.com/">heroku</a></p>
+<p><a href="https://github.com/toddbauer86/book-search-engine">github</a></p>
